@@ -2,6 +2,7 @@ package hello.itemservice.domain.item;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.lang.NonNullApi;
 
 @Getter @Setter
 public class Item {
